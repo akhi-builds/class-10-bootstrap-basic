@@ -1,0 +1,20 @@
+/* All Common CSS Start */
+*{
+  margin: 0;
+  padding: 0;
+}
+ul,ol{
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+/* All Common CSS End */
+.header{
+  padding:100px 0;
+  background: teal;
+}
+.box{
+  height: 100px;
+  background: tomato;
+}
